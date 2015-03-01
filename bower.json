@@ -1,0 +1,19 @@
+{
+  "name": "broccoli-less-single-example",
+  "version": "0.0.1",
+  "homepage": "https://github.com/jasonmit/broccoli-less-single-example",
+  "authors": [
+    "Jason Mitchell <jason.mitchell.w@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.2"
+  }
+}
