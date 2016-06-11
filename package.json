@@ -7,10 +7,14 @@
   },
   "author": "jason.mitchell.w@gmail.com",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jasonmit/broccoli-less-single-example"
+  },
   "dependencies": {
-    "broccoli": "^0.13.3",
-    "broccoli-less-single": "^0.1.5",
-    "broccoli-merge-trees": "^0.2.1",
-    "broccoli-static-compiler": "^0.2.1"
+    "broccoli": "^0.16.9",
+    "broccoli-funnel": "^1.0.1",
+    "broccoli-less-single": "^0.6.2",
+    "broccoli-merge-trees": "^1.1.1"
   }
 }
